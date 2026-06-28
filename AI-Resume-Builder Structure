@@ -1,0 +1,15 @@
+AI-Resume-Builder/
+│
+├── index.html          # Main webpage
+├── style.css           # Styling
+├── script.js           # JavaScript logic
+├── README.md           # Project documentation
+│
+├── assets/
+│   ├── images/
+│   │   └── logo.png
+│   └── icons/
+│
+└── screenshots/
+    ├── home.png
+    └── resume.png
