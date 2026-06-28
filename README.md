@@ -160,8 +160,3 @@ This project is licensed under the MIT License.
 
 ## 👩‍💻 Author
 **Charumathi P**
-
-
-If you found this project useful, please consider giving it a ⭐ on GitHub!
-
-Happy Coding! 🚀
